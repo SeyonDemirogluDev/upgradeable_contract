@@ -1,5 +1,5 @@
 # Piggy Bank
-**Piggy Bank is a contract where you can store money inside, but only the owner can withdraw. When `withdraw(`)is called, the smart contract gets destroyed, just like in real life. 😉**
+**Piggy Bank is a contract where you can store money inside, but only the owner can withdraw. When `withdraw()` is called, the smart contract gets destroyed, just like in real life. 😉**
 
 ```
 Deposit

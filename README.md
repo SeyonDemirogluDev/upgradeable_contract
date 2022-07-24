@@ -4,22 +4,22 @@
 ```
 Deposit
 ```
-*Event for deposition of ETH.*
+*Fired when ETH is deposited.*
 
 ```
 Withdraw
 ```
-*Event for one-time withdrawal of funds in smart contract. Destroys contract when called.*
+*Fired when ETH gets withdrawn. Destroys contract when called.*
 
 ```
 owner
 ```
-*Address of `PiggyBank.sol` deployer.*
+*Address of contract deployer.*
 
 ```
 withdraw()
 ```
-*Function that, when called, withdraws all funded ETH from smart contract and destroys smart contract from the blockchain.*
+*Function that withdraws all funded ETH from contract and deletes contract from the blockchain.*
 
 ```
 receive()
